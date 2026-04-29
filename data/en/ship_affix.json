@@ -27,7 +27,7 @@
 		" Mod.2": " Mod.2",
 		" Mk.II": " Mk.II",
 		"(六式)"        : " (Type 6)",
-		"(特務艦)"      : " (AGS)",
+		"(特務艦)"      : " (ASU)",
 		"(灯台補給船)"  : " (AGL)",
 		"(南極観測船)"  : " (AGB)",
 		"(量産型)"      : " (Mass Production Model)",
@@ -124,7 +124,7 @@
 	},
 
 	"byId": {
-		"699" : "Souya (AGS)",
+		"699" : "Souya (ASU)",
 		"645" : "Souya (AGL)",
 		"650" : "Souya (AGB)",
 		"1022" : "Glorious (BC)",
