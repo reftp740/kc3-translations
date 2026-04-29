@@ -1121,8 +1121,10 @@
 	"RemodelItemDetail"       : "이 장비를<br/>개수하는거네요!",
 	"RemodelItemConsumeNeeds" : "소비가능한 락이 안된 무개수 장비",
 	"RemodelItemUpgradeTo"    : "개수된 후의 장비",
-	"RemodelItemResultSuccess": "개수에 성공 했습니다!",
-	"RemodelItemResultFailure": "개수에 실패 했습니다...",
+	"RemodelItemResultSuccess": "개수에 성공했습니다!",
+	"RemodelItemResultFailure": "개수에 실패했습니다...",
+	"RemodelItemResetSuccess" : "개수 초기화에 성공했습니다!",
+	"RemodelItemResetFailure" : "개수 초기화에 실패했습니다...",
 
 
 	"DesktopNotifyExpedCompleteTitle": "원정 완료!",
