@@ -4129,7 +4129,7 @@
     "941": {
         "code": "2604B1",
         "name": "[Spring] Springtime Coastal Patrol Stroll! 2026",
-        "desc": "Sortie an AS/CT/DD as flagship and up to 4(!) DD/DE/SS(V) to [W1-2], [W1-3], [W2-1] and [W2-2]. A-Rank+ each boss node.",
+        "desc": "Sortie an AS/CT/DD as flagship and up to 4(!) additional DD/DE/SS(V) to [W1-2], [W1-3], [W2-1] and [W2-2]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a \u26052 Type 3 Active Sonar OR two Screws OR five Development Materials\n\u00B6Second choice: Either a Medal OR two Irako OR a Furniture Fairy"
     },
     "942": {
@@ -4171,7 +4171,7 @@
     "979": {
         "code": "2604B7",
         "name": "Monthly [Anniversary] Enforcement Transport Operation",
-        "desc": "Sortie 3 DE as flagship, second ship and third ship, and up to 3 additional ships to [W1-3], [W1-4] and [W1-6]. S-Rank each boss node twice. Reach [W1-6-N] twice.",
+        "desc": "Sortie 3 DE as flagship, second ship and third ship, and up to 3 additional ships to [W1-3], [W1-4] and [W1-6]. A-Rank+ each boss node twice. Reach [W1-6-N] twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Medals OR 4000 Fuel OR two Arsenal Resources\n\u00B6Second choice: Either thirteen Development Materials OR 8800 Steel OR two Mamiya"
     },
     "363": {
@@ -4221,6 +4221,24 @@
         "name": "Weekly [Time-limited] Elimination of Unnecessary Equipment after the Event Operations",
         "desc": "Have 48 Flamethrowers. Scrap 8 Medium Caliber Main Guns, 8 Torpedoes and 4 Large Caliber Main Guns.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either 1600 Ammo OR 1600 Fuel OR a New Model Armament Materials\n\u00B6Second choice: Either 1500 Steel OR 1200 Bauxite OR two Screws"
+    },
+    "1046": {
+        "code": "2605B1",
+        "name": "[Time-limited] Admiral, Would You Like an Iris Bath?",
+        "desc": "Sortie any one of Yamashio Maru, Kaiboukan No.4 and Kaiboukan No.30 as flagship, 2 DE, a DD and up to 2 additional ships to [W1-2], [W1-3], [W1-5] and [W1-4]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Development Materials OR five Flamethrowers OR an Arsenal Resource\n\u00B6Second choice: Either +5 Equipment Slots OR two Medals OR two Latest Overseas Warship Technology"
+    },
+    "1168": {
+        "code": "2605F1",
+        "name": "[Time-limited] Iris Festival Arsenal I",
+        "desc": "Have an Arsenal Resource, 55 Development Materials and 550 Ammo. Set any 2 of Yamashio Maru Kai, Kaiboukan No.4 and Kaiboukan No.30 as secretary and second ship. Scrap 3 >> Type 96 Fighters.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR a New Model Armament Materials OR two Arsenal Resources\n\u00B6Second choice: Either two Re.2001 OR Kai OR a \u26052 Re.2001 G Kai OR 110 Development Materials"
+    },
+    "1169": {
+        "code": "2605F2",
+        "name": "[Time-limited] Iris Festival Arsenal II",
+        "desc": "Have 2 Arsenal Resources, 155 Development Materials, 550 Fuel and 550 Ammo. Set any 2 of Yamashio Maru Kai, Kaiboukan No.4 and Kaiboukan No.30 as secretary and second ship. Scrap 5 >> Type 97 Torpedo Bombers.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Medals OR +5 Equipment Slots OR two New Model Artillery Armament Materials\n\u00B6Second choice: Either two Swordfishes OR a \u26052 Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR 210 Development Materials"
     },
     "367": {
         "code": "2505C1",
