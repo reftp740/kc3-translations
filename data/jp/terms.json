@@ -682,6 +682,7 @@
 	"BattleNightAgainst" : "夜戦相手が敵第{0}艦隊",
 	"BattleDayNeeded"    : "昼戦が必要？",
 	"BattleRating"       : "戦闘評価",
+	"BattleSlotRemains"  : "最大艦娘保有数迄あと: {0}\n最大装備運用枠迄あと: {1}",
 	"BattleDamageGauges" : "交戦戦果: {0}% vs {1}%",
 	"BattleSmokeScreen"  : "煙幕濃度: {0}重",
 	"BattleBalloonNode"  : "防空気球運用可能",

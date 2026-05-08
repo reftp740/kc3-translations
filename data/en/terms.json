@@ -679,6 +679,7 @@
 	"BattleNightAgainst" : "Night battle opponent will be Fleet {0}",
 	"BattleDayNeeded"    : "Day battle needed?",
 	"BattleRating"       : "Battle Rating",
+	"BattleSlotRemains"  : "Remaining ship slot(s): {0}",
 	"BattleDamageGauges" : "Damage Gauges: {0}% vs {1}%",
 	"BattleSmokeScreen"  : "Smoke Screen level: {0}",
 	"BattleBalloonNode"  : "Barrage Balloon deployable",

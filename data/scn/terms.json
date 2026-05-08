@@ -724,6 +724,7 @@
 	"BattleNightAgainst" : "夜战对手将是敌第{0}舰队",
 	"BattleDayNeeded"    : "能否昼战？",
 	"BattleRating"		 : "战斗评价",
+	"BattleSlotRemains"  : "剩余舰娘保有数: {0}",
 	"BattleDamageGauges" : "交战战果: {0}% vs {1}%",
 	"BattleSmokeScreen"  : "烟幕浓度: {0}级",
 	"BattleBalloonNode"  : "防空气球部署点",
