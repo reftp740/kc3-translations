@@ -729,6 +729,7 @@
 	"BattleNightAgainst" : "야간전 상대가 적 제{0}함대",
 	"BattleDayNeeded": "주간전 필요?",
 	"BattleRating": "전투 평가",
+	"BattleSlotRemains"  : "최대 칸무스 보유 수까지: {0}\n최대 장비 보유 수까지: {1}",
 	"BattleDamageGauges": "교전 전과: {0}% vs {1}%",
 	"BattleSmokeScreen"  : "연막농도: {0}",
 	"BattleBalloonNode"  : "방공기구 운용가능",
